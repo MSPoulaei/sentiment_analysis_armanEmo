@@ -2,6 +2,11 @@
 
 This project performs sentiment analysis on the **ArmanEmo** dataset, which consists of Persian text labeled with seven different emotional categories. The goal is to classify the emotions of unseen text using state-of-the-art NLP models.
 
+## Contributors
+
+- Mohammad Sadegh Poulaei
+- Fatemeh Askari
+
 ## Dataset
 
 The **ArmanEmo** dataset contains text from various sources like social media and Digikala reviews. Each sentence is assigned one of seven emotional labels. The data is provided in two files: `train.tsv` and `test.tsv`.
